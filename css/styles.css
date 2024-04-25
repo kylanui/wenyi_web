@@ -1,0 +1,60 @@
+
+.banner img {
+  width: 100%;
+  height: auto;
+}
+
+
+nav {
+  background-color: #098830;
+  overflow: hidden;
+}
+
+nav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #90D3A5;
+  color: black;
+}
+
+nav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+.title {
+  text-align: center;
+  color: #5D966F;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Arial, sans-serif; 
+  font-weight: bold;
+}
+
+
+.container {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+
+#map {
+  height: 700px;
+}
+
+
+footer {
+  background-color: #098830;
+  color: white;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
